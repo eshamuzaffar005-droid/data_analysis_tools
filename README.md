@@ -12,4 +12,4 @@ gc calculator can guide in setting up temperature in PCR tests as a hight percen
 # Built with:
 Python
 # Author:
-**Esha Muzaffar**, Biotechnology, Nust Islamabad, [LinkedIn](www.linkedin.com/in/esha-muzaffar-5a224b434), 
+**Esha Muzaffar**, Biotechnology, Nust Islamabad, [LinkedIn](www.linkedin.com/in/esha-muzaffar-5a224b434), [GitHub](https://github.com/eshamuzaffar005-droid)
